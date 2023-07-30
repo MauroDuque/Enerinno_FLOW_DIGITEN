@@ -1,0 +1,21 @@
+{
+  "name": "Enerinno_FLOW_DIGITEN",
+  "keywords": "ESP32, FLOW_DIGITEN",
+  "description": "Esentials for FLOW_DIGITEN",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MauroDuque/Enerinno_FLOW_DIGITEN.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Mauricio Duque",
+      "email": "mauricio.duque.eje@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
