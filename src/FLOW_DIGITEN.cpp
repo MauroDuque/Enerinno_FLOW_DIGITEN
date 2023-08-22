@@ -7,7 +7,7 @@ int flowState = 0;
 float pulsePerLiter = 770;
 int previusStateFlow = 0;
 float counterFlow = 0.0;
-float volume = 0.0;
+double volume = 0.0;
 float liters_per_min = 0;
 float total_liters = 0.0;
 
